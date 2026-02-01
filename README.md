@@ -1,128 +1,67 @@
-# 👋 Hi, I'm Abdelrahman Mohamed Elbahnsy
-
-☁️ Cloud & Systems Engineer | Computer Science Student  
-📍 Mansoura, Egypt  
-
----
-
-## 🚀 About Me
-I’m a Computer Science student at Mansoura University with a strong passion for Cloud Engineering and Infrastructure.  
-I started my journey with AWS Cloud Architecture, then specialized in Microsoft Azure, reaching the Azure Administrator (AZ-104) level.
-
-I have solid hands-on experience in:
-- Cloud infrastructure design & automation
-- Networking and system administration
-- Linux & Windows Server environments
-- Building secure, scalable, and reliable cloud solutions
-
-Currently, I’m focused on hands-on Azure & AWS projects, DevOps tools, and Infrastructure as Code (IaC).
+# Abdelrahman Mohamed Elbahnsy
+Cloud & Systems Engineer | Computer Science Student  
+Mansoura, Egypt
 
 ---
 
-## 🛠️ Technical Skills
+## About
+Computer Science student at Mansoura University with a focused interest in **Cloud Engineering and Infrastructure**.  
+Experienced with **Microsoft Azure** and **AWS**, with a solid foundation in **networking, system administration**, and **Infrastructure as Code**.
 
-### ☁️ Cloud Platforms
-- Microsoft Azure (AZ-900, AZ-104)
-- AWS (Fundamentals, Solution Architecture)
-
-### 💻 Operating Systems
-- Windows, Windows Server  
-- Linux (Ubuntu, RedHat)
-
-### 🌐 Networking & System Administration
-- Routing & Switching  
-- VLANs, Subnetting, ACLs  
-- User & Permission Management  
-- Service Configuration & Troubleshooting  
-
-### ⚙️ DevOps & Automation
-- Jenkins
-- GitHub Actions
-- Terraform
-- CloudFormation
-- Docker
-- Kubernetes
-
-### 📊 Monitoring & Logging
-- Prometheus
-- Grafana
-- AWS CloudWatch
-- Azure Monitor
-
-### 🧑‍💻 Programming & Scripting
-- Python
-- Bash
-
-### 🔧 Tools
-- Azure Portal
-- AWS Console
-- Git & GitHub
-- Cisco Packet Tracer
-- Hyper-V
-- Linux CLI
-- Windows Admin Tools
+Currently building hands-on projects in cloud automation, monitoring, and scalable system design.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack & Tools
 
-### 🔹 AWS Infrastructure Automation using Terraform
-- Automated deployment of a full AWS environment (VPC, EC2, S3, RDS, IAM).
-- Used Terraform modules for scalable and consistent provisioning.
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🔹 Azure Infrastructure Setup & Resource Management
-- Provisioned Azure VMs, VNets, NSGs, and Storage Accounts.
-- Configured Azure AD access.
-- Enabled monitoring using Azure Monitor.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🔹 Hybrid Network & Windows Server Infrastructure
-- Built a hybrid network using VLANs, routing, and ACLs.
-- Configured Windows Server services:
-  - Active Directory
-  - DNS
-  - DHCP
-  - Group Policy (GPO)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows_Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 
-### 🔹 Distributed File Transfer System
-- Developed a distributed file transfer system with real-time monitoring.
-- Built for the Network Programming course.
-- Grade: Excellent (100%)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git_&_GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## 🎓 Education
+## Projects
+
+**AWS Infrastructure Automation**  
+Automated provisioning of AWS resources (VPC, EC2, S3, RDS, IAM) using Terraform with reusable modules.
+
+**Azure Infrastructure & Resource Management**  
+Deployed Azure VMs, VNets, NSGs, Storage Accounts, Azure AD, and monitoring.
+
+**Hybrid Network & Windows Server Deployment**  
+Designed a hybrid network and configured AD, DNS, DHCP, and GPO.
+
+**Distributed File Transfer System**  
+Built a monitored file transfer system for academic purposes (Grade: Excellent).
+
+---
+
+## Education
 Bachelor’s in Information and Communication Technology  
-Faculty of Computer & Information Sciences – Mansoura University  
-📅 10/2023 – 10/2026 (Expected)
-
-Coursework / Transfer  
-Faculty of Computer & Artificial Intelligence – Beni-Suef University  
-📅 10/2022 – 06/2023
+Faculty of Computer & Information Sciences, Mansoura University  
+2023 – 2026 (Expected)
 
 ---
 
-## 🏅 Training & Experience
+## Contact
 
-- Azure Cloud Trainee (AZ-900 & AZ-104) – NTI (2025)  
-  Hands-on Azure VMs, VNets, NSGs, Storage, Azure AD, Azure Monitor.
-
-- AWS Cloud & Solutions Architect Trainee – NTI (2025)  
-  Worked with EC2, S3, IAM, VPCs, Load Balancers, scalable architectures.
-
-- System Administration Trainee (MCSA) – (2025)  
-  Windows Server, AD, DNS, DHCP, GPO, troubleshooting.
-
-- Networking Trainee (CCNA) – (2024)  
-  Routing, Switching, VLANs, Subnetting, ACLs, troubleshooting.
-
----
-
-## 🌍 Languages
-- Arabic (Native)
-- English (Professional)
-
----
-
-## 📫 Connect With Me
-- 📧 Email: abdelrahmanelbahnsy19@gmail.com
-- 💼 LinkedIn: Abdelrahman Elbahnsy (https://www.linkedin.com/in/AbdelrahmanElbahnsy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanelbahnsy19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AbdelrahmanElbahnsy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanElbahnsy)
