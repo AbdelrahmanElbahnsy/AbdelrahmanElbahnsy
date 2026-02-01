@@ -1,14 +1,14 @@
 # Abdelrahman Mohamed Elbahnsy
-Cloud & Systems Engineer | Computer Science Student  
-Mansoura, Egypt
+Cloud & Systems Engineer | Information Technology
+Mansoura, Egypt 
 
 ---
 
 ## About
-Computer Science student at Mansoura University with a focused interest in **Cloud Engineering and Infrastructure**.  
-Experienced with **Microsoft Azure** and **AWS**, with a solid foundation in **networking, system administration**, and **Infrastructure as Code**.
+Junior Cloud, DevOps & Systems Engineer with hands-on experience in **Microsoft Azure** and **AWS**.  
+Currently studying Information and Communication Technology with a solid background in **cloud solution design**, **system administration (Linux & Windows)**, **networking**, **virtualization**, and **DevOps practices**.
 
-Currently building hands-on projects in cloud automation, monitoring, and scalable system design.
+Focused on building **secure, scalable, and automated cloud infrastructure** through practical projects.
 
 ---
 
@@ -37,31 +37,17 @@ Currently building hands-on projects in cloud automation, monitoring, and scalab
 
 ---
 
-## Projects
-
-**AWS Infrastructure Automation**  
-Automated provisioning of AWS resources (VPC, EC2, S3, RDS, IAM) using Terraform with reusable modules.
-
-**Azure Infrastructure & Resource Management**  
-Deployed Azure VMs, VNets, NSGs, Storage Accounts, Azure AD, and monitoring.
-
-**Hybrid Network & Windows Server Deployment**  
-Designed a hybrid network and configured AD, DNS, DHCP, and GPO.
-
-**Distributed File Transfer System**  
-Built a monitored file transfer system for academic purposes (Grade: Excellent).
-
----
-
 ## Education
-Bachelor’s in Information and Communication Technology  
+**Bachelor’s in Information and Communication Technology**  
 Faculty of Computer & Information Sciences, Mansoura University  
 2023 – 2026 (Expected)
 
 ---
+## 🔗 Connect with Me
 
-## Contact
-
+[![Location](https://img.shields.io/badge/Mansoura%2C%20Egypt-555555?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Phone](https://img.shields.io/badge/+20%20102%20897%207915-0A66C2?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201028977915)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanelbahnsy19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AbdelrahmanElbahnsy)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanElbahnsy)
+
