@@ -5,27 +5,27 @@
 </h3>
 
 <p align="center">
-Passionate about building scalable cloud infrastructure, automating deployments,
-and designing modern DevOps pipelines.
+Cloud & DevOps Engineer passionate about building scalable cloud infrastructure,
+automating deployments, and designing modern DevOps pipelines.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AbdelrahmanElbahnsy&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=AbdelrahmanElbahnsy&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀 DevOps Engineer | Cloud Enthusiast
 
 🎓 IT Student at **Mansoura University**
-☁️ Passionate about **Cloud Computing & DevOps Engineering**
-🐳 Experienced with **Docker & Kubernetes**
-⚙️ Building **CI/CD Pipelines & Cloud Infrastructure**
-💡 Interested in **Automation, Infrastructure as Code, and Scalable Systems**
+☁️ Passionate about **Cloud Computing & DevOps**
+🐳 Working with **Docker & Kubernetes**
+⚙️ Building **CI/CD pipelines & automation systems**
+🚀 Interested in **Infrastructure as Code & Cloud Architecture**
 
 ---
 
-# 🌐 Connect With Me
+# 🔗 Connect With Me
 
 <p align="left">
 
@@ -49,7 +49,7 @@ and designing modern DevOps pipelines.
 
 ---
 
-# 🧰 Tech Stack
+# 💻 Tech Stack
 
 ### ☁️ Cloud & DevOps
 
@@ -90,7 +90,7 @@ and designing modern DevOps pipelines.
 # ⚙️ DevOps Pipeline
 
 ```text
-Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → AWS
+Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → AWS Cloud
 ```
 
 ---
@@ -143,10 +143,10 @@ AWS Cloud Infrastructure
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/AbdelrahmanElbahnsy/AbdelrahmanElbahnsy/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/AbdelrahmanElbahnsy/AbdelrahmanElbahnsy/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 💡 Dev Quote
 
-> "First solve the problem. Then write the code."
+> “First solve the problem. Then write the code.”
