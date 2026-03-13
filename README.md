@@ -20,8 +20,8 @@ automating deployments, and designing modern DevOps pipelines.
 🎓 IT Student at **Mansoura University**
 ☁️ Passionate about **Cloud Computing & DevOps**
 🐳 Working with **Docker & Kubernetes**
-⚙️ Building **CI/CD pipelines & automation systems**
-🚀 Interested in **Infrastructure as Code & Cloud Architecture**
+⚙️ Building **CI/CD pipelines & Infrastructure Automation**
+🚀 Interested in **Infrastructure as Code & Scalable Systems**
 
 ---
 
