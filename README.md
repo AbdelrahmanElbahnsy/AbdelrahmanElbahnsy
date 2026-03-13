@@ -17,11 +17,31 @@ automating deployments, and designing modern DevOps pipelines.
 
 # 🚀 DevOps Engineer | Cloud Enthusiast
 
-🎓 IT Student at **Mansoura University**
-☁️ Passionate about **Cloud Computing & DevOps**
-🐳 Working with **Docker & Kubernetes**
-⚙️ Building **CI/CD pipelines & Infrastructure Automation**
-🚀 Interested in **Infrastructure as Code & Scalable Systems**
+🎓 IT Student at **Mansoura University** specializing in **Information Technology**.
+
+☁️ Passionate about **Cloud Computing, DevOps Engineering, and Infrastructure Automation**.
+
+I focus on building scalable cloud systems, automating deployments, and designing reliable **CI/CD pipelines**.
+
+🐳 Experienced with **Docker, Kubernetes, Linux, and modern DevOps tools** to build and manage **cloud-native applications**.
+
+⚙️ Interested in **Infrastructure as Code, cloud architecture, automation, and scalable systems**.
+
+---
+
+# 🌐 Portfolio & Resume
+
+<p align="left">
+
+<a href="https://abdelrahman-elbahnsy.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1fYl9kYJHw_CnOjCuDAvXe2yXXa4mCWGD/view?usp=sharing">
+<img src="https://img.shields.io/badge/Download-CV-green?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
+
+</p>
 
 ---
 
@@ -95,26 +115,6 @@ Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → AWS Cloud
 
 ---
 
-# ☁️ Cloud Architecture
-
-```text
-Users
- │
- ▼
-Load Balancer
- │
- ▼
-Docker Containers
- │
- ▼
-Kubernetes Cluster
- │
- ▼
-AWS Cloud Infrastructure
-```
-
----
-
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanElbahnsy\&show_icons=true\&theme=tokyonight)
@@ -137,7 +137,7 @@ AWS Cloud Infrastructure
 
 # 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElbahnsy\&theme=tokyonight\&row=1\&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElbahnsy\&theme=tokyonight)
 
 ---
 
