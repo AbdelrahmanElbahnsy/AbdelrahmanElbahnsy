@@ -10,7 +10,7 @@ automating deployments, and designing modern DevOps pipelines.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AbdelrahmanElbahnsy&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=AbdelrahmanElbahnsy&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -84,28 +84,28 @@ automating deployments, and designing modern DevOps pipelines.
 
 # 🚀 DevOps Pipeline
 
-```
-Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → Cloud Infrastructure
+```text id="pipeline1"
+Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → AWS Cloud
 ```
 
 ---
 
 # ☁️ Cloud Architecture
 
-```
+```text id="cloud1"
 Users
-  │
-  ▼
+ │
+ ▼
 Load Balancer
-  │
-  ▼
+ │
+ ▼
 Docker Containers
-  │
-  ▼
+ │
+ ▼
 Kubernetes Cluster
-  │
-  ▼
-Cloud Infrastructure (AWS)
+ │
+ ▼
+AWS Cloud Infrastructure
 ```
 
 ---
@@ -114,7 +114,7 @@ Cloud Infrastructure (AWS)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanElbahnsy\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanElbahnsy\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanElbahnsy\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -132,13 +132,13 @@ Cloud Infrastructure (AWS)
 
 # 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElbahnsy\&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElbahnsy\&theme=tokyonight\&row=1\&column=6)
 
 ---
 
 # 🐍 Contribution Snake
 
-![snake](https://github.com/AbdelrahmanElbahnsy/AbdelrahmanElbahnsy/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AbdelrahmanElbahnsy/AbdelrahmanElbahnsy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
