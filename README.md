@@ -9,6 +9,10 @@ Cloud & DevOps Engineer passionate about building scalable cloud infrastructure,
 automating deployments, and designing modern DevOps pipelines.
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AbdelrahmanElbahnsy&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 # 🚀 DevOps Engineer | Cloud Enthusiast
@@ -78,11 +82,45 @@ automating deployments, and designing modern DevOps pipelines.
 
 ---
 
+# 🚀 DevOps Pipeline
+
+```
+Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → Cloud Infrastructure
+```
+
+---
+
+# ☁️ Cloud Architecture
+
+```
+Users
+  │
+  ▼
+Load Balancer
+  │
+  ▼
+Docker Containers
+  │
+  ▼
+Kubernetes Cluster
+  │
+  ▼
+Cloud Infrastructure (AWS)
+```
+
+---
+
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanElbahnsy\&show_icons=true\&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanElbahnsy\&layout=compact\&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanElbahnsy\&theme=tokyo-night)
 
 ---
 
@@ -95,6 +133,12 @@ automating deployments, and designing modern DevOps pipelines.
 # 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElbahnsy\&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake](https://github.com/AbdelrahmanElbahnsy/AbdelrahmanElbahnsy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
