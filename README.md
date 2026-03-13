@@ -5,96 +5,144 @@ Cloud & DevOps Engineer | Docker | Kubernetes | CI/CD | Linux
 </h3>
 
 <p align="center">
-Passionate about building scalable cloud infrastructure and automating deployments using modern DevOps practices.
+Cloud & DevOps Engineer passionate about building scalable cloud infrastructure,
+automating deployments, and designing modern DevOps pipelines.
 </p>
-
----
-
-### 🚀 About Me
-
-Cloud & DevOps Engineer passionate about designing, automating, and managing scalable cloud infrastructure.  
-Experienced in Linux systems, containerization, CI/CD pipelines, and cloud technologies.
-
-- 🎓 IT Student – Faculty of Computers & Information, Mansoura University  
-- 🌱 Always learning new DevOps and Cloud technologies  
-- ⚡ Love automation, containers, and scalable systems  
-- 💻 Interested in Cloud Engineering & DevOps
-
----
-
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/3159/3159066.png" width="140"/>
-</p>
-
----
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F7C95C&center=true&vCenter=true&width=650&lines=Cloud+Engineer;DevOps+Engineer;Docker+%7C+Kubernetes;Always+Learning+New+Things" 
-    alt="Typing SVG" 
-  />
+<img src="https://komarev.com/ghpvc/?username=AbdelrahmanElbahnsy&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 DevOps Engineer | Cloud Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/abdelrahmanelbahnsy)
+✨ IT Student at **Mansoura University**
+⚙️ Passionate about **Cloud, DevOps & Infrastructure Automation**
+🐳 Working with **Docker, Kubernetes & CI/CD pipelines**
+🚀 Building **Cloud Infrastructure & Scalable Systems**
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FLwk3Seq9/)
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdelrahnanelbahnsy)
+# 🔗 Connect With Me
 
-<a href="https://wa.me/201028977915">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://www.linkedin.com/in/abdelrahmanelbahnsy">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/abdelrahnanelbahnsy">
+<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.facebook.com/share/1FLwk3Seq9/">
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="mailto:abdelrahmanelbahnsy3@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 ---
 
 # 💻 Tech Stack
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ☁️ Cloud & DevOps
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge\&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge\&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-red?style=for-the-badge\&logo=ansible)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?style=for-the-badge\&logo=githubactions)
 
 ---
 
-### Programming
+### 🖥 Infrastructure
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge\&logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge\&logo=ubuntu)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge\&logo=nginx)
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
+
+### 📊 Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge\&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge\&logo=grafana)
+
+---
+
+### 💻 Programming
+
+![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge\&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge\&logo=dotnet)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
+
+---
+
+# 🚀 DevOps Pipeline
+
+```text id="pipeline1"
+Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → AWS Cloud
+```
+
+---
+
+# ☁️ Cloud Architecture
+
+```text id="cloud1"
+Users
+ │
+ ▼
+Load Balancer
+ │
+ ▼
+Docker Containers
+ │
+ ▼
+Kubernetes Cluster
+ │
+ ▼
+AWS Cloud Infrastructure
+```
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=abdelrahmanelbahnsy&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanElbahnsy\&show_icons=true\&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=abdelrahmanelbahnsy&theme=shadow_green&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanelbahnsy&theme=shadow_green&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanElbahnsy\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=abdelrahmanelbahnsy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanElbahnsy\&theme=tokyo-night)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=abdelrahmanelbahnsy&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanElbahnsy\&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElbahnsy\&theme=tokyonight\&row=1\&column=6)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/AbdelrahmanElbahnsy/AbdelrahmanElbahnsy/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 💡 Dev Quote
+
+> “First solve the problem. Then write the code.”
+
