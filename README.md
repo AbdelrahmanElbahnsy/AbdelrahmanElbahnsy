@@ -1,39 +1,48 @@
-# Hi 👋 I'm Abdelrahman El-Bahnsy
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋 I'm Abdelrahman El-Bahnsy</h1>
+<h3 align="center">Cloud & DevOps Engineer | IT Student @ Mansoura University</h3>
 
-🚀 Cloud & DevOps Engineer  
-🎓 IT Student @ Mansoura University  
-💻 Passionate about Cloud Infrastructure & Scalable Systems  
+<p align="center">
+Building scalable systems, automating infrastructure, and shipping reliable software.
+</p>
+
+<p align="center">
+  <a href="https://github.com/AbdelrahmanElbahnsy">
+    <img src="https://komarev.com/ghpvc/?username=AbdelrahmanElbahnsy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 IT Student at **Mansoura University**
+- ☁️ Passionate about **Cloud Engineering & DevOps**
+- ⚙️ Focused on **Automation, CI/CD, Containers, and Scalable Systems**
+- 🧠 Currently learning **Kubernetes, Infrastructure as Code, and Cloud Architecture**
+- 🚀 Building projects in **Cloud Infrastructure & Distributed Systems**
 
 ---
 
 ## 🚀 Tech Stack
 
-- ☁️ Cloud: AWS
-- 🐳 Containers: Docker
-- ⚙️ Orchestration: Kubernetes
-- 🔄 CI/CD: GitHub Actions
-- 💻 Backend: .NET
-- 🐧 OS: Linux
-- 🔧 Tools: Git, GitHub
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,bash" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions" />
+</p>
+
+### 🛠 Tools & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,nginx,ubuntu" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🧠 DevOps Workflow
 
-- Distributed File Transfer System (C#)
-- Dockerized .NET Applications
-- Kubernetes Deployment Demo
-- Cloud Infrastructure Labs
-
----
-
-## 📊 GitHub Stats
-
-![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanElbahnsy&show_icons=true&theme=tokyonight)
-
----
-
-## 🌐 Connect with me
-
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: abdelrahmanelbahnsy3@gmail.com
+```text
+Code → Git → GitHub → CI/CD → Docker → Kubernetes → Cloud
